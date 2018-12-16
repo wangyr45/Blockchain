@@ -5,7 +5,7 @@ Python实现简易区块链
 
 由于自学区块链的笔记都在Evernote上，图片不好传上来，日后陆陆续续整理上传吧。
 
-# 好文章
+# :point_right: 好文章
 - [阮一峰区块链入门](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)（注：通俗易懂，有些许不对的地方，但是对于小白了解区块链是个什么东西足够了。）
 - [比特币区块的内部结构](http://www.chanpin100.com/article/106847)（注：了解区块链技术，比特币是绕不过去的。）
 - [七大设计原则](http://www.chanpin100.com/article/106797)
