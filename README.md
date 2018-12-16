@@ -21,14 +21,11 @@ Python实现简易区块链
 - [自己动手写区块链（Java版）](https://mp.weixin.qq.com/s/2GEK-tDSZ_ODsHHZE6EsBg)
 - [自己动手写区块链-发起一笔交易（Java版）](https://mp.weixin.qq.com/s/7fEyDDtKXBqh5m9_rBx7TA)
 
-# :point_right: 资料集
+# :point_right: 资料
 
 - [云栖社区区块链相关文章汇总](https://m.aliyun.com/yunqi/articles/361909?utm_content=m_40142)
 - [区块链原理解密系列](https://mp.weixin.qq.com/mp/homepage?__biz=MzU0NzcwMDk2Nw==&hid=1&sn=46ff2dfd7d1ce17b613e559194d560bd&scene=18#wechat_redirect)
 - [收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
-  
-# :point_right: 资料集
-
 - [云栖社区区块链相关文章汇总](https://m.aliyun.com/yunqi/articles/361909?utm_content=m_40142)
 - [区块链原理解密系列](https://mp.weixin.qq.com/mp/homepage?__biz=MzU0NzcwMDk2Nw==&hid=1&sn=46ff2dfd7d1ce17b613e559194d560bd&scene=18#wechat_redirect)
 - [收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
